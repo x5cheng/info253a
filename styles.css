@@ -1,0 +1,22 @@
+body {
+    font-family: Optima;
+    color: darkslategrey;
+}
+
+h1, h2 {
+    font-family: Futura;
+}
+
+main_div {
+    text-align:left;
+    position: relative;
+    left: 100px;
+}
+
+hr.dotted {
+    border-top: 3px dotted #bbb;
+  }
+
+#bold {
+    font-weight: bold;
+}
